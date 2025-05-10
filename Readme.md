@@ -2,9 +2,8 @@
 
 # Hi there 👋 I'm Naveen Kumar !
 
-I'm a passionate **Web Developer** who loves building projects and learning new technologies.  
-Looking  to collaborate with the tech enthusiasts
-
+🌱 I'm a passionate **Web Developer** who loves building projects and learning new technologies.  
+👯 I'm Looking to collaborate with the tech enthusiasts
 🔭 I’m currently working on projects to improve my skills in **Web Development** and **Automation Testing**.  
 
 
