@@ -49,4 +49,5 @@ style="max-width: 100%; height: auto;">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pedduri-naveen-kumar)
 
 
-<img src="./images/bottom.png" alt="Profile Picture" width="100%" height="200">
+<img src="./images/bottom.png" alt="Profile Picture" 
+style="max-width: 100%; height: auto;">
