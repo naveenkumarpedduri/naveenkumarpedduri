@@ -1,4 +1,5 @@
-<img src="./images/top.png" alt="Profile Picture" width="100%" height="400">
+<img src="./images/top.png" alt="Profile Picture"
+style="max-width: 100%; height: auto;">
 
 # Hi there 👋 I'm Naveen Kumar !
 
